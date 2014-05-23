@@ -1,4 +1,0 @@
-progkorny
-=========
-
-progkorny
